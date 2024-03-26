@@ -1,0 +1,33 @@
+{
+  "name": "simeapple24561",
+  "version": "1.0.2",
+  "description": "",
+  "type": "module",
+  "main": "coin_scan_binance.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bianyinzji/simeapple24561"
+  },
+  "website": "https://github.com/bianyinzji/simeapple24561.git",
+  "keywords": [
+    "binance",
+    "client",
+    "arbitrim"
+  ],
+  "author": "bianyinzji",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bianyinzji/simeapple24561/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/bianyinzji/simeapple24561#readme",
+  "dependencies": {
+    "selalbera9873": "1.0.2"
+  }
+}
